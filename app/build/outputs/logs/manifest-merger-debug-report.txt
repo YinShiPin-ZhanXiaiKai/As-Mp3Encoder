@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7fe2e337237c321790096cba587d61cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/cf3eccd05ec9cca20f9b27f3b3808cb7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/d8c84d57d1066414be8943c7c8c3de4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/bcf680e01dc65384d73c415f3cf05eea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/bcdc5322e003d243c56f5835b18ceeab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/6893d302a20b039f63a6e6babcb595e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/29c017168603f76c1f8562a20423fdd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/a45549ee96b5e3a8698a6e5122c11a15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/590d3d7eec08c34264b51b66329d8945/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/00503c330ecbfeb0e442a996917c6bd5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/8a8e8018a4a142038c9e45db8c667ab2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/ada11867a16d3e3fa23560aebe5bd2f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/dcb077674aab4f45d57e7c3044391397/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/9ad683044f062747ac4c8bcfc6359abc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/9b52b37b1ee5ee587179c796282bace2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/a69c04e7775e175605b0ca2253fe2e97/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/f7f15d716df078009e4cd51ef20c2763/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/3e43c7d90b49d669232997279c0aee8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/130f302f278e6b7d142c45971d36faa9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/a2e4a954d6a475598a8d98dbdb33cfb9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/43c32563aa59747a9ead8ed7b0d8578f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/45b363edfb6050ddfa5350f7a5cb1613/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/e1a99ad192c8e96b813136c2cb47e42e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/22c16ad627c80da0d68df99abfd64971/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/cf54916204284f611c41f2b0b7417445/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:7:5-83
+	android:name
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:7:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:9:22-77
+application
+ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:11:5-26:19
+MERGED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:11:5-17:19
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/9b52b37b1ee5ee587179c796282bace2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/9b52b37b1ee5ee587179c796282bace2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/a69c04e7775e175605b0ca2253fe2e97/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/a69c04e7775e175605b0ca2253fe2e97/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/9b52b37b1ee5ee587179c796282bace2/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:14:9-41
+	tools:ignore
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:16:9-48
+	android:icon
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.phuket.tour.mp3encoder.MainActivity
+ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+MERGED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7fe2e337237c321790096cba587d61cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/7fe2e337237c321790096cba587d61cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/cf3eccd05ec9cca20f9b27f3b3808cb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/cf3eccd05ec9cca20f9b27f3b3808cb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/d8c84d57d1066414be8943c7c8c3de4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/d8c84d57d1066414be8943c7c8c3de4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/bcf680e01dc65384d73c415f3cf05eea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/bcf680e01dc65384d73c415f3cf05eea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/bcdc5322e003d243c56f5835b18ceeab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/bcdc5322e003d243c56f5835b18ceeab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/6893d302a20b039f63a6e6babcb595e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/6893d302a20b039f63a6e6babcb595e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/29c017168603f76c1f8562a20423fdd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/29c017168603f76c1f8562a20423fdd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/a45549ee96b5e3a8698a6e5122c11a15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/a45549ee96b5e3a8698a6e5122c11a15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/590d3d7eec08c34264b51b66329d8945/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/590d3d7eec08c34264b51b66329d8945/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/00503c330ecbfeb0e442a996917c6bd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/00503c330ecbfeb0e442a996917c6bd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/8a8e8018a4a142038c9e45db8c667ab2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/8a8e8018a4a142038c9e45db8c667ab2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/ada11867a16d3e3fa23560aebe5bd2f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/ada11867a16d3e3fa23560aebe5bd2f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/dcb077674aab4f45d57e7c3044391397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/dcb077674aab4f45d57e7c3044391397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/9ad683044f062747ac4c8bcfc6359abc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/9ad683044f062747ac4c8bcfc6359abc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/9b52b37b1ee5ee587179c796282bace2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/9b52b37b1ee5ee587179c796282bace2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/a69c04e7775e175605b0ca2253fe2e97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/a69c04e7775e175605b0ca2253fe2e97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/f7f15d716df078009e4cd51ef20c2763/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/f7f15d716df078009e4cd51ef20c2763/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/3e43c7d90b49d669232997279c0aee8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/3e43c7d90b49d669232997279c0aee8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/130f302f278e6b7d142c45971d36faa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/130f302f278e6b7d142c45971d36faa9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/a2e4a954d6a475598a8d98dbdb33cfb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/a2e4a954d6a475598a8d98dbdb33cfb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/43c32563aa59747a9ead8ed7b0d8578f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/43c32563aa59747a9ead8ed7b0d8578f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/45b363edfb6050ddfa5350f7a5cb1613/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/45b363edfb6050ddfa5350f7a5cb1613/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/e1a99ad192c8e96b813136c2cb47e42e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/e1a99ad192c8e96b813136c2cb47e42e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/22c16ad627c80da0d68df99abfd64971/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/22c16ad627c80da0d68df99abfd64971/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/cf54916204284f611c41f2b0b7417445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/mac/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/cf54916204284f611c41f2b0b7417445/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/githubCode/zhanxiaokai/As-Mp3Encoder/app/src/main/AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:2.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/jetified-easypermissions-2.0.0.aar/6b38bf2da20d4bf79971600a757f64e8/AndroidManifest.xml:13:13-86
